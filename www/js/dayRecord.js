@@ -51,6 +51,7 @@
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
+                    { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" }, 
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
                     { name: '张三', place: '电政办办公室', type: typeName, date: "2015-04-01", status: "审核已通过" },
