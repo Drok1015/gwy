@@ -1,0 +1,18 @@
+﻿.infinite-scroll-preloader {
+  margin-top:-20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.infinite-scroll-preloader .preloader {
+  width:28px;
+  height:28px;
+}
+.navbar-inner .left a span {
+    font-size:14px
+}
+.navbar-inner .right a span {
+    font-size:14px
+}
+.navbar-inner .center {
+    font-family: STXihei
+}

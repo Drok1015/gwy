@@ -1,0 +1,37 @@
+﻿<!--考勤明细列表-->
+<div class="view">
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="left">
+                <a href="#" class="back link">
+                    <i class="icon icon-back-blue"></i>
+                    <span>返回</span>
+                </a>
+            </div>
+            <div class="center sliding">日记实</div>
+            <div class="right">
+                <a href="#">
+                    <i class="icon icon-back-blue"></i>
+                    <span>添加</span>
+                </a>
+            </div>
+            <div class="subnavbar">
+                <span>日期：</span>
+                <input type="date" placeholder="选择日期" value="2014-04-30">
+            </div>
+        </div>
+    </div>
+
+    <div data-page="dayList" class="page with-subnavbar">
+        <div class="page-content hide-bars-on-scroll infinite-scroll pull-to-refresh-content" data-distance="100" data-ptr-distance="10">
+            <div class="pull-to-refresh-layer">
+                <div class="preloader"></div>
+                <div class="pull-to-refresh-arrow"></div>
+            </div>
+            <div class="list-block" style="margin-top:0px"><ul class="list"></ul></div>
+            <div class="infinite-scroll-preloader">
+                <div class="preloader"></div>
+            </div>
+        </div>
+    </div>
+</div>
