@@ -18,7 +18,7 @@ $$(document).on('pageAfterAnimation', '.page[data-page="attenceList"]', function
     $$("select").change(function (str) {
         getJson($$(this).val());
     });
-
+    
     function getJson(typeName) {
         //    $.ajax({ 
         //        async: false, 
@@ -30,6 +30,7 @@ $$(document).on('pageAfterAnimation', '.page[data-page="attenceList"]', function
         //        timeout: 5000, 
         //        success: function (result) {
         //                var html = Template7.templates.listTemplate(result);
+        //var html = Template7.templates.listTemplate(result);
 
         //                $$(".list-block").html(html);
         //        }, 
